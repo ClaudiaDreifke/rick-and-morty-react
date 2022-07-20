@@ -1,0 +1,10 @@
+.character-gallery{
+    background-color: slategray;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+
+

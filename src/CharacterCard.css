@@ -1,0 +1,17 @@
+.character-card {
+    background-color: white;
+    border: solid black 1px;
+    border-radius: 10px;
+    margin: 10px
+
+}
+
+.character-card-picture {
+    border: solid black 0.5px;
+}
+
+.character-name{
+    font-size: 24px;
+    font-weight: bold;
+
+}
